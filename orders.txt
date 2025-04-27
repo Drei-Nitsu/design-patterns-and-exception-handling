@@ -1,0 +1,12 @@
+[LOG] -> Order ID: 41 has been successfully checked out and paid using Cash.
+[LOG] -> Order ID: 41 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 1001 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using Cash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using Credit / Debit Card.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using Credit / Debit Card.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using GCash.
+[LOG] -> Order ID: 2 has been successfully checked out and paid using GCash.
